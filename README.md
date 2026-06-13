@@ -3,6 +3,7 @@
 📌 Project Overview
 
 This project presents an interactive Executive Performance Dashboard developed using Microsoft Excel to analyze the business performance of AdventureWorks from 2020 to 2022.
+dashboard.png.png
 
 The dashboard was designed to provide senior management with a clear and comprehensive view of key business metrics, enabling data-driven decision-making through dynamic visualizations and performance indicators.
 
